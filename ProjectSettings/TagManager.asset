@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerSpawner
+  - PlayerUnit
+  - EnemyUnit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - SpawnPoint
+  - Ground
+  - BattleUnit
+  - EnemyBattleUnit
+  - FlyingEnemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2761708131
+    locked: 0
+  - name: PlayerUnits
+    uniqueID: 2740166215
+    locked: 0
+  - name: EnemyUnits
+    uniqueID: 3738968541
+    locked: 0
+  - name: Semi-ui
+    uniqueID: 1143209619
+    locked: 0
